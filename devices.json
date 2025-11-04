@@ -1,0 +1,30 @@
+[
+  {
+    "uuid": "03bf172c-6468-4686-b691-708e75b8b2b7",
+    "name": "MyDevice",
+    "ip_address": "192.168.1.1",
+    "username": "",
+    "password": ""
+  },
+  {
+    "uuid": "a6284a3d-a77f-404a-b87d-e0719c3f8fba",
+    "name": "MyDevice2",
+    "ip_address": "192.168.1.2",
+    "username": "",
+    "password": ""
+  },
+  {
+    "uuid": "d8cd6594-3641-4270-8067-c3692c55c2af",
+    "name": "MyDevice3",
+    "ip_address": "192.168.1.3",
+    "username": "",
+    "password": ""
+  },
+  {
+    "uuid": "d8cd6594-3641-4270-8067-c3692c55c12d",
+    "name": "MyDevice4",
+    "ip_address": "192.168.1.4",
+    "username": "",
+    "password": ""
+  }
+]

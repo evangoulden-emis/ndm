@@ -1,9 +1,11 @@
 package device
 
+import "github.com/google/uuid"
+
 type Device struct {
-	Name      string `json:"name"`
-	IPAddress string `json:"ip_address"`
-	Id        int    `json:"id"`
-	Username  string `json:"username"`
-	Password  string `json:"password"`
+	UUID      uuid.UUID `json:"uuid"`
+	Name      string    `json:"name"`
+	IPAddress string    `json:"ip_address"`
+	Username  string    `json:"username"`
+	Password  string    `json:"password"`
 }
